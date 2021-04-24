@@ -3,3 +3,10 @@ Few things happened:
 first, it automatecally created new Remote repo under your gethub account
 Second, made a connection with your local repo
 third, added all your command to your local repo
+
+Now our work will continue locally
+
+1. add a new fiule called note.txt
+2. commited the change to local repo
+3. we want this change to be reflected in remote repository
+4. Observe it has been added in your repository under GitHub.com
