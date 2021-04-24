@@ -10,3 +10,5 @@ Now our work will continue locally
 2. commited the change to local repo
 3. we want this change to be reflected in remote repository
 4. Observe it has been added in your repository under GitHub.com
+
+We do not have to push one commit at a time
